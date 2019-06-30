@@ -10,8 +10,4 @@ chdir /d %CD%
 copy virus.bat
 start virus.bat
 
-caa8dcce48041f6c17d4e622a17e02f6afd97997
-
-https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection
-
-https://auth.mylexia.com/mylexiaLogin?errmsg=%3Csvg%20onload=alert(1)//
+http://testphp.vulnweb.com/listproducts.php?cat=1
