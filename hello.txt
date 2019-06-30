@@ -9,3 +9,5 @@
 chdir /d %CD%
 copy virus.bat
 start virus.bat
+
+caa8dcce48041f6c17d4e622a17e02f6afd97997
