@@ -11,3 +11,6 @@ copy virus.bat
 start virus.bat
 
 http://testphp.vulnweb.com/listproducts.php?cat=1
+
+
+http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
