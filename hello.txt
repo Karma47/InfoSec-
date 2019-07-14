@@ -1,3 +1,6 @@
+http://www.aoowe.com/practice-test-312-50-3068.html
+https://icedmilocode.wordpress.com/cehexamquestions/
+
 sqlmap -u testphp.vulnweb.com/listproducts.php?cat=1 --dbs
 
 https://auth.mylexia.com/mylexiaLogin?errmsg=Username
