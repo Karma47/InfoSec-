@@ -1,0 +1,107 @@
+[1;34m
+
+
+###########################
+#   buck-security 0.7     #
+###########################
+
+We will run 13 security checks now.
+This may take a while...
+
+
+[1] CHECK checksum: Checksums of system programs            [1;31m[ WARNING ]
+[0mThe security test encountered the following error during execution.
+Couldn't read ./checksums.gpg: No such file or directory
+
+Command was: a perl script, too long to display
+[1;34m
+
+[2] CHECK emptypasswd: Users with empty password            [1;31m[ WARNING ]
+[0mThe security test encountered the following error during execution.
+Password file /root/Documents/bucksec/buck-security/etc/passwd does not exist.
+Command was: a perl script, too long to display
+[1;34m
+
+[3] CHECK firewall: Check firewall policies                 [1;31m[ WARNING ]
+[0mThe security test discovered a possible insecurity.
+The following iptables policies are set to ACCEPT.
+######################################################
+FORWARD:ACCEPT
+INPUT:ACCEPT
+OUTPUT:ACCEPT
+Command was: a perl script, too long to display
+[1;34m
+
+[4] CHECK packages_problematic: Search problematic packages [1;31m[ WARNING ]
+[0mThe security test discovered a possible insecurity.
+The following packages are installed.
+######################################################
+dsniff
+hping3
+john
+nikto
+nmap
+python-scapy
+tshark
+Command was: a perl script, too long to display
+[1;34m
+
+[5] CHECK services: Listening Services                      [1;31m[ WARNING ]
+[0mThe security test discovered a possible insecurity.
+The following programs are listening for incoming
+connections. Output format is port:program:listen_mode
+######################################################
+68:dhclient:LISTEN_ALL
+Command was: a perl script, too long to display
+[1;34m
+
+[6] CHECK sgids: Files where Setgid is used                 [1;32m[ OK ]
+[0mCommand was: a perl script, too long to display
+[1;34m
+
+[7] CHECK sshd: Check if sshd is secured                    [1;31m[ WARNING ]
+[0mThe security test encountered the following error during execution.
+sshd configuration file /root/Documents/bucksec/buck-security/etc/ssh/sshd_config not found.
+Command was: a perl script, too long to display
+[1;34m
+
+[8] CHECK stickytmp: Mode, user, and group acceptable for tmp directory. [1;31m[ WARNING ]
+[0mThe security test encountered the following error during execution.
+Specified tmpdir /root/Documents/bucksec/buck-security/tmp does not exist.
+Command was: a perl script, too long to display
+[1;34m
+
+[9] CHECK suids: Files where Setuid is used                 [1;32m[ OK ]
+[0mCommand was: a perl script, too long to display
+[1;34m
+
+[10] CHECK superusers: Find superusers                      [1;31m[ WARNING ]
+[0mThe security test encountered the following error during execution.
+Password file /root/Documents/bucksec/buck-security/etc/passwd does not exist.
+Command was: a perl script, too long to display
+[1;34m
+
+[11] CHECK usermask: Check umask                            [1;32m[ OK ]
+[0mCommand was: umask
+[1;34m
+
+[12] CHECK worldwriteablefiles: World Writeable Files       [1;32m[ OK ]
+[0mCommand was: a perl script, too long to display
+[1;34m
+
+[13] CHECK worldwriteabledirs: World Writeable Directories  [1;32m[ OK ]
+[0mCommand was: a perl script, too long to display
+[1;34m
+
+###########################
+###   CHECKS FINISHED   ###
+time taken was 0 seconds
+###########################
+
+ATTENTION:
+buck-security is still under heavy development, consider this a beta version.
+Your feedback is very welcome, please send it to maba4891@users.sourceforge.net.
+To get help run './buck --help' or visit http://www.buck-security.org/ 
+
+
+[0m
