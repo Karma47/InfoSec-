@@ -1,3 +1,5 @@
+https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
+
 https://chat.whatsapp.com/FAf80Kfz8afK1ybj80dz9P
 https://discord.gg/kdRDpR
 
@@ -88,6 +90,8 @@ https://icedmilocode.wordpress.com/cehexamquestions/
 sqlmap -u testphp.vulnweb.com/listproducts.php?cat=1 --dbs
 
 https://auth.mylexia.com/mylexiaLogin?errmsg=Username
+
+
 
 https://drive.google.com/open?id=1N7ho5OaPpK7DsBlkjmXMWo732S7Gcyy6
 https://drive.google.com/open?id=1BJb8neN1aYtYWbgfHPzFDRZ-Ln2OeJUq
