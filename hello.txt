@@ -1,5 +1,10 @@
+https://chat.whatsapp.com/FAf80Kfz8afK1ybj80dz9P
+
 https://drive.google.com/open?id=1yJ8pbTbZq4dswUZ1lTn81R3cStrp0zcT
 https://drive.google.com/open?id=1A3rw_jaWvBOSrAz3eF9zgmHukbifKnR1
+
+
+
 
 https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
 
@@ -88,6 +93,7 @@ https://greysec.net/showthread.php?tid=31&highlight=archive
 
 
 http://www.aoowe.com/practice-test-312-50-3068.html
+
 https://icedmilocode.wordpress.com/cehexamquestions/
 
 sqlmap -u testphp.vulnweb.com/listproducts.php?cat=1 --dbs
