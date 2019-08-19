@@ -9,8 +9,10 @@ Discord - https://discord.gg/MJ6PR2
 Steg - Monolisa https://drive.google.com/open?id=1yJ8pbTbZq4dswUZ1lTn81R3cStrp0zcT
 old is gold - https://drive.google.com/open?id=1A3rw_jaWvBOSrAz3eF9zgmHukbifKnR1
 
+CEH Lab - https://drive.google.com/open?id=1a2oNbWoiMmt_0E7k0bCe_pvKwqIidjV0
 
-
+Overthe wire bandit - https://overthewire.org/wargames/bandit/
+Over the wire bandit help / tutorial - https://www.youtube.com/watch?v=PRAjBlys-7g&list=PL1H1sBF1VAKUsYdQd94dO9MgSaY2p1AJ4
 
 https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
 
