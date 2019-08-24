@@ -1,3 +1,5 @@
+slowloris: https://github.com/llaera/slowloris.pl
+
 CompTIA Security+
 https://1drv.ms/u/s!Al7JIMNdQ0mtgaYqSRzSViBfKDlcSg?e=fCV8xA
 
