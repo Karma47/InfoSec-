@@ -1,3 +1,5 @@
+All knowledge is parallel : https://0x00sec.org/t/knowledge-is-free/6270
+
 slowloris: https://github.com/llaera/slowloris.pl
 
 CompTIA Security+
