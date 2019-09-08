@@ -106,7 +106,7 @@ Archive:
 https://greysec.net/showthread.php?tid=31&highlight=archive
 
 
-CEH Dumps:
+CEH Exam Questions:
 http://www.aoowe.com/practice-test-312-50-3068.html
 
 https://icedmilocode.wordpress.com/cehexamquestions/
