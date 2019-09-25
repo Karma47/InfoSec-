@@ -4,6 +4,9 @@ CEH All in one Matt Walker : https://drive.google.com/open?id=1dt7VVJWXEkp_6vAAM
 Burp Suite Tutorial : https://1drv.ms/u/s!Al7JIMNdQ0mtgaoMELTv_9iItj1VOQ?e=ypok7c
 slowloris: https://github.com/llaera/slowloris.pl
 
+Kali LInux Resource:
+https://mega.nz/#F!qEthVCjS!AsSx6gs6eWYD2LXN4e6Hzg
+
 CompTIA Security+
 https://1drv.ms/u/s!Al7JIMNdQ0mtgaYqSRzSViBfKDlcSg?e=fCV8xA
 
