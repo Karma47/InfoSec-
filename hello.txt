@@ -6,6 +6,10 @@ Discord - https://discord.gg/MJ6PR2
 Burp Suite Tutorial : https://hackademy.aetherlab.net/
                       https://www.youtube.com/watch?v=U-MkNsHPU_I&feature=youtu.be
                       
+VM - 
+https://www.virtualbox.org/
+https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
+
 slowloris: https://github.com/llaera/slowloris.pl
 
 A nice youtube channel : https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg
