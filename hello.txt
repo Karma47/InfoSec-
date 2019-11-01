@@ -10,7 +10,8 @@ VM -
 https://www.virtualbox.org/
 https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
 
-slowloris: https://github.com/llaera/slowloris.pl
+SMS BOMB - https://github.com/TheSpeedX/TBomb
+DOS - slowloris: https://github.com/llaera/slowloris.pl
 
 A nice youtube channel : https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg
 
