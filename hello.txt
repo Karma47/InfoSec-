@@ -1,15 +1,21 @@
 All knowledge is parallel : https://0x00sec.org/t/knowledge-is-free/6270
 CEH All in one Matt Walker : https://drive.google.com/open?id=1dt7VVJWXEkp_6vAAMnuEx7ZaG_KxPJQV
 
+VM - 
+https://www.virtualbox.org/
+https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
+
+Kali Linux Module One:
+https://mega.nz/#F!1sxXWILY!eOPqeuAeruHYvthrHaM1gA
+
+Kali linux Module two:
+https://mega.nz/#F!YxYBFKpJ!zJwq4k-PbOeSRpCUWvF5fw
+
 Discord - https://discord.gg/MJ6PR2
 
 Burp Suite Tutorial : https://hackademy.aetherlab.net/
                       https://www.youtube.com/watch?v=U-MkNsHPU_I&feature=youtu.be
                       
-VM - 
-https://www.virtualbox.org/
-https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
-
 SMS BOMB - https://github.com/TheSpeedX/TBomb
 DOS - slowloris: https://github.com/llaera/slowloris.pl
 
@@ -36,9 +42,6 @@ Delme Virus:
 
 Mega Bastard : To download from Mega bypassing the Mega download limit use Mega Bastard
 https://github.com/tonikelope/megabasterd
-
-Kali Linux Module One:
-https://mega.nz/#F!1sxXWILY!eOPqeuAeruHYvthrHaM1gA
 
 IEEE - Archive
 https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
