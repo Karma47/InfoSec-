@@ -1,4 +1,5 @@
 Lab Setup:
+Lab Man & Slides: https://github.com/Karma47/CEHv10
 Virtualbox : https://www.virtualbox.org/
 Normal Download : https://images.offensive-security.com/virtual-images/kali-linux-2019.4-vbox-i386.ova
 Torrent : https://images.offensive-security.com/virtual-images/kali-linux-2019.4-vbox-i386.ova.torrent
@@ -6,7 +7,7 @@ Metasploitableb : https://sourceforge.net/projects/metasploitable/
 Kioptrix (Download level 1& 2): https://drive.google.com/open?id=1rlR7x5BXKpCXA3097WeYiw3sJ_DOVnPe
 IMPORT ALL MACHINES INTO YOU VM AND SET UP A NAT NETWORK.
 Reference: https://www.techrepublic.com/article/how-to-create-multiple-nat-networks-in-virtualbox/
-https://nmap.org/download.html
+Nmap: https://nmap.org/download.html
 
 https://github.com/Karma47/temp/blob/master/hello.txt
 Telegram : https://t.me/joinchat/JuMrIFHqY5-hvkVQNBCFEw
