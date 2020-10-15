@@ -1,6 +1,10 @@
 Lab Setup:
 Lab Man & Slides: https://github.com/Karma47/CEHv10
 Virtualbox : https://www.virtualbox.org/
+Winxp : https://archive.org/details/ie8.xp.virtualbox
+Windows 7: https://archive.org/details/ie11.win7.virtualbox
+Windows 8: https://archive.org/details/ie11.win81.virtualbox
+Windows 10: https://archive.org/details/msedge.win10.virtualbox
 Normal Download : https://images.offensive-security.com/virtual-images/kali-linux-2019.4-vbox-i386.ova
 Torrent : https://images.offensive-security.com/virtual-images/kali-linux-2019.4-vbox-i386.ova.torrent
 Metasploitableb : https://sourceforge.net/projects/metasploitable/
